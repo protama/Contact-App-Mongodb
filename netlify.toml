@@ -1,0 +1,3 @@
+[build]
+publish = "build" # Direktori publish
+command = "npm run build" # Perintah build
