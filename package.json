@@ -1,4 +1,4 @@
-"scripts": {
+{
   "publish": "Contact-App-Mongodb",
   "build": "npm run Contact-App-Mongodb"
 }
