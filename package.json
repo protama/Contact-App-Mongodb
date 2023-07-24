@@ -1,6 +1,6 @@
 "scripts": {
-  "publish": "npm run build",
-  "build": "react-scripts build"
+  "publish": "Contact-App-Mongodb",
+  "build": "npm run Contact-App-Mongodb"
 }
 {
   "name": "23-mongo-contact-app",
