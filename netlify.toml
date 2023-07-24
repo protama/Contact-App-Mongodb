@@ -1,3 +1,3 @@
 [build]
 publish = "Contact-App-Mongodb" # Direktori publish
-command = "npm run build" # Perintah build
+command = "npm run Contact-App-Mongodb" # Perintah build
